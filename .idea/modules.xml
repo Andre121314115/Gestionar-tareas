@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Gestion de tareas.iml" filepath="$PROJECT_DIR$/.idea/Gestion de tareas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Gestionar-tareas.iml" filepath="$PROJECT_DIR$/.idea/Gestionar-tareas.iml" />
     </modules>
   </component>
 </project>
